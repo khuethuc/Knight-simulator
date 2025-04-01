@@ -1,1 +1,1 @@
-# CO1027-Programming-Fundamentals-HK222
+# CO1027 - Programming Fundamentals - HCMUT - HK222
